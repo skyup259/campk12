@@ -1,0 +1,74 @@
+.slider-title {
+    width: 454px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.18px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 460px;
+    margin-left: 493px;
+}
+
+.slider-left-arrow, .slider-right-arrow {
+    width: 48px;
+    height: 48px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+    border: solid 1px #ebebeb;
+    background-color: #f9fcff;
+    border-radius: 4px;
+    float: left;
+    margin-top: 127px;
+}
+
+.slider-left-arrow {
+    margin-right: 41px;
+    margin-left: 155px;
+}
+
+.slider-right-arrow {
+    margin-left: 65px;
+}
+
+.leftArrow, .rightArrow {
+    width: 24px;
+    height: 16px;
+    object-fit: contain;
+    margin-top: 16px;
+}
+
+.card {
+    width: 208px;
+    height: 228px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #ebebeb;
+    background-color: #ffffff;
+    float: left;
+    margin-top: 37px;
+    margin-left: 24px;
+}
+
+.webapp {
+    width: 108px;
+    height: 108px;
+    object-fit: contain;
+}
+
+.card-text {
+    width: 160px;
+    height: 56px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: var(--dark-blue-grey);
+    padding: 16px 21px 24px 21px;
+}

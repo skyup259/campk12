@@ -1,0 +1,58 @@
+.header-second {
+    margin-top: 83px;
+}
+
+.header-content {
+    width: 665px;
+    margin-left: 136px;
+    margin-right: 34px;
+    float: left;
+}
+
+.welcome-title {
+    width: 533px;
+    height: 120px;
+    font-family: Montserrat;
+    font-size: 52px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 0.22px;
+    color: #ffffff;
+}
+
+.subTitle {
+    width: 665px;
+    height: 102px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: 0.24px;
+    color: #ffffff;
+}
+
+.text-yellow {
+    color: #fcda55;
+}
+
+.coin {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+}
+
+.header-photo-right {
+    width: 469px;
+    height: 300px;
+    margin-right: 136px;
+    float: right;
+}
+
+.header-pic {
+    object-fit: contain;
+    border-radius: 4px;
+}

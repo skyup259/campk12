@@ -1,0 +1,398 @@
+.course-title {
+    width: 534px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.18px;
+    color: var(--dark-blue-grey);
+    margin-left: 452px;
+    margin-top: 333px;
+}
+
+.live-title {
+    float: left;
+}
+
+.live-icon {
+    width: 87px;
+    height: 34px;
+    background-color: #de9dff;
+    float: left;
+    margin-left: 27px;
+    border-radius: 4px;
+}
+
+.oval {
+    width: 8px;
+    height: 8px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin: 13px 0 13px 14px;
+    float: left;
+  }
+
+  .live-text {
+    width: 42px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: 0.1px;
+    text-align: center;
+    float: left;
+    color: #ffffff;
+    margin-left: 8px;
+  }
+
+  .live-text p {
+      margin-bottom: 8px;
+  }
+
+  .course-subtitle {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #777b8c;
+    margin-left: 347px;
+    width: 746px;
+    height: 26px;
+    float: left;
+  }
+
+  .course-subtitle-line2 {
+    width: 600px;
+    height: 26px;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: 0.2px;
+    color: #777b8c;
+    margin-left: 407px;
+  }
+
+  .skillIcon {
+    width: 17px;
+    height: 20px;
+    object-fit: contain;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.15);
+    margin-right: 5px;
+  }
+
+  .coinIcon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    margin-left: 28px;
+    margin-right: 2px;
+  }
+  
+  .card-img-top {
+    background: url(../assets/android.jpg);
+    background-size: auto 100%;
+    width: 274px;
+    height: 158px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #dbe4ee;
+    background-color: #ffffff
+  }
+
+  .card-img-top2 {
+    background: url(../assets/webdev.png);
+  }
+
+  .card-img-top3 {
+    background: url(../assets/vreal.jpg);
+  }
+
+  .card-img {
+    width: 274px !important;
+    height: 580px;
+    margin: 0px;
+    margin-top: 84px;
+    margin-left: 278px;
+  }
+
+  .card-img2 {
+    margin-left: 30px;
+  }
+
+  .course-Name {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: 0.2px;
+    color: var(--dark-blue-grey);
+    text-align: left;
+    margin-bottom: 10px;
+  }
+
+  .body-background {
+    height: 400px;
+    border: solid 1px #dbe4ee;
+    background-color: #ffffff;
+  }
+
+  .shadow {
+    width: 242px;
+    height: 1px;
+    opacity: 0.2;
+    filter: blur(1px);
+    background-color: #000000;
+}
+
+.course-grade {
+    text-align: left;
+    margin-top: 9px;
+    margin-bottom: 0px;
+}
+
+.gradeIcon {
+    width: 13px;
+    height: 15px;
+    margin-left: 12px;
+    object-fit: contain;
+}
+
+.fillIcon {
+    width: 14px;
+    height: 13px;
+    margin-left: 62px;
+    object-fit: contain;
+}
+
+.gradeText {
+    width: 54px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 0.17px;
+    color: #777b8c;
+}
+
+.fillText {
+    width: 58px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 0.17px;
+    margin-left: 9px;
+    text-align: right;
+    color: #777b8c;
+}
+
+.course-value {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.value-range {
+    width: 33px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.2px;
+    color: var(--dark-blue-grey);
+    margin-left: 30px;
+}
+
+.isValue {
+    width: 25px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.2px;
+    text-align: right;
+    color: var(--dark-blue-grey);
+    margin-left: 110px;
+}
+
+.skills {
+    margin-top: 16px;
+}
+
+.SkillsIcon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    float: left;
+}
+
+.skills-name {
+    height: 24px;
+    float: left;
+    margin-left:11px;
+}
+
+.skill-names {
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 24px;
+    font-family: Montserrat;
+    background-color: #0bc29f;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #ffffff;
+    float: left;
+    border-radius: 4px;
+}
+
+.skill-names2 {
+    margin-left: 9px;
+}
+
+.coins {
+    margin-top: 8px;    
+}
+
+.coinsIcon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    float: left;
+}
+
+.coins-name {
+    height: 24px;
+    background-color: yellow;
+    float: left;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+
+.coin-value {
+    width: 46px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 0.2px;
+    text-align: center;
+    margin-left: 12px;
+}
+
+.stopwatchIcon {
+    float: left;
+}
+
+.stopwatch-value {
+    margin-top: 19px;
+    width: 202px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.2px;
+    color: #1f2a55;
+    margin-left: -36px;
+    margin-bottom: 0px;
+}
+
+.timeIcon {
+    margin-top: -14px;
+}
+
+.price {
+    text-align: left;
+    margin-top: 22px;
+}
+
+.price-value {
+    width: 67px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: var(--dark-blue-grey);
+}
+
+.enroll {
+    width: 72px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #076fec;
+    float: right;
+}
+
+.mt-36 {
+    margin-top: 36px;
+}
+
+.course-name-box {
+    height: 25px;
+    opacity: 0.4;
+    margin-left: 15px;
+    margin-top: 14px;
+}
+
+.course-name {
+    width: fit-content;
+    height: 25px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 1.71px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 4px;
+    padding: 5px;
+}

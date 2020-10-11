@@ -1,0 +1,67 @@
+.justify-content-between {
+    padding: 51px 141px 0px 137px !important;
+}
+
+.navbar-brand {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.navRight {
+    width: 104px;
+    height: 34px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    background-color: #71aef3;
+    margin-left: 20px;
+    border-radius: 4px;
+
+}
+
+.leaderboard {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+}
+
+.notification {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+    margin-left: 16px;
+}
+
+.skill-icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    margin: 5px;
+    float: left;
+}
+
+.skill-count {
+    width: 30px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+    float: left;
+    margin: 7px 0;
+}
+
+.profile {
+    width: 33.5;
+    height: 34px;
+    float: right;
+}
+
+.downArrow {
+    width: 12px;
+    height: 7px;
+    object-fit: contain;
+    margin-left: 7.5px;
+}
