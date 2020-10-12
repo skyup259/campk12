@@ -42,7 +42,7 @@ class Courses extends Component {
                             <p className="course-name">MOBILE APP</p>
                         </div>
                     </div>
-                        <div className="card-body body-background">
+                        <div className="card-body body-background p-16">
                             <p className="course-Name">Android App Development Level 1</p>
                             <div className="shadow"></div>
                             <p className="course-grade">
@@ -98,7 +98,7 @@ class Courses extends Component {
                         <p className="course-name">WEB DEVELOPMENT</p>
                     </div>
                     </div>
-                        <div className="card-body body-background">
+                        <div className="card-body body-background p-16">
                             <p className="course-Name">Web Development Level 1</p>
                             <div className="shadow mt-36"></div>
                             <p className="course-grade">
@@ -152,7 +152,7 @@ class Courses extends Component {
                             <p className="course-name">MIXED REALITY</p>
                         </div>
                     </div>
-                        <div className="card-body body-background">
+                        <div className="card-body body-background p-16">
                             <p className="course-Name">Virtual Reality Level 1</p>
                             <div className="shadow mt-36"></div>
                             <p className="course-grade">

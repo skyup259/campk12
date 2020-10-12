@@ -154,7 +154,7 @@
     width: 242px;
     height: 1px;
     opacity: 0.2;
-    filter: blur(1px);
+    filter: blur(0.6px);
     background-color: #000000;
 }
 
@@ -395,4 +395,8 @@
     background-color: #000000;
     border-radius: 4px;
     padding: 5px;
+}
+
+.p-16 {
+    padding: 16px !important;
 }
