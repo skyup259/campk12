@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c66928de351f0afbdc3e1ab2b4ba0a90",
+    "revision": "4cc5674bb37fbc9cd16475193c7ec57a",
     "url": "/campk12/index.html"
   },
   {
-    "revision": "dbee046d91d047d98b4a",
+    "revision": "cf862372ca81605de07b",
     "url": "/campk12/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "7e4d6c60cc9504326b4a",
-    "url": "/campk12/static/css/main.d6c594f0.chunk.css"
+    "revision": "34857b7aba6f67c46104",
+    "url": "/campk12/static/css/main.61d62475.chunk.css"
   },
   {
-    "revision": "dbee046d91d047d98b4a",
-    "url": "/campk12/static/js/2.c4c8d15a.chunk.js"
+    "revision": "cf862372ca81605de07b",
+    "url": "/campk12/static/js/2.8db3426b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/campk12/static/js/2.c4c8d15a.chunk.js.LICENSE.txt"
+    "url": "/campk12/static/js/2.8db3426b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e4d6c60cc9504326b4a",
-    "url": "/campk12/static/js/main.8449d2a7.chunk.js"
+    "revision": "34857b7aba6f67c46104",
+    "url": "/campk12/static/js/main.6d188967.chunk.js"
   },
   {
     "revision": "6323c128c90c38ea9f22",
